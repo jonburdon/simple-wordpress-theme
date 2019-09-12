@@ -4,5 +4,11 @@ Author: Jon Burdon
 */
 
 body {
-    background:black;
+    background:#e7e7e7;
+}
+
+header {
+    background:#fff;
+    width:100%;
+    height:100px;
 }

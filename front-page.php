@@ -1,18 +1,8 @@
 <?php get_header();?>
 
-<div class="container">
+<div class="container" pt-5 pb-5>
 
-        <div class="row">
-
-            <div class="col">
-            Left side
-            </div>
-
-            <div class="col">
-            Right side
-            </div>
-
-        </div>
+<h1><?php the_title();?></h1>
 
 </div>
 
